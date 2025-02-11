@@ -1,0 +1,2407 @@
+[
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ALUN-ALUN 02 - ASIA AFRIKA",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ALUN-ALUN_03 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ALUN.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ANTAPANI-DEPAN BORMA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ant.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ANTAPANI-DEPAN BORMA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Antt.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BATAS KOTA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/BatasKo.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BATAS KOTA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/cibeurem.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BORMA CIKUTRA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIK.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BORMA CIKUTRA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CIKUT.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BRAGA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/braga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BRAGA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BRAGA 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bragaaa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BRAGA 1-NARIPAN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nar.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BRAGA 1-NARIPAN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Nari.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BUAH BATU-DEPAN GRIYA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgriya.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BUBAT KORDON",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/BUB.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BURANGRANG BPI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpi.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV BURANGRANG BPI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/burangrangbpii.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIATEUL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIAT.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIATEUL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIBADUYUT-DEKAT TPS 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibatps.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIBADUYUT-DEKAT TPS 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cibaytps.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICABE_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CICA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICABE_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIC.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICADAS-GATEWAY_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CI.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICADAS-GATEWAY_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CICAB.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICENDO - KB KAWUNG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicendo.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICENDO - KB KAWUNG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicend.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CICENDO - KB KAWUNG 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cicen.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIHA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIH.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-GANDOK 01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelasgan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-GANDOK 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CihampelasGand.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-SKYWALK 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihamsky.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-SKYWALK 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampsky.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-SKYWALK 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelsky.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-SKYWALK 04",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cihampelassky.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS -SKYWALK 05",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Garkp.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIHAMPELAS-SKYWALK 07",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Buahgri.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIJERAH PAL TILU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/paltilu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIJERAH PAL TILU 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/paltiluu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIKUTRA-TMP 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktm.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIKUTRA-TMP 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Ciktmp.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-JEMBATAN_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMINDI.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-JEMBATAN_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIND.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-JEMBATAN_03 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMIN.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-KHARISMA_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMI.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-KHARISMA_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIM.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-SUKARAJA_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMND.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIMINDI-SUKARAJA_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/CIMD.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIPAGANTI-NYLAND 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipany.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV CIPAGANTI-NYLAND 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cipanyl.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 1-CIKAPAYANG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 2-SMA 1 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsm.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 2-SMA 1 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagsma.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 3-BORROMEUS 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbr.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 3-BORROMEUS 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagbor.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 4 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagos.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DAGO 4 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagoss.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DALAM KAUM-PEDESTRIAN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkam.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DALAM KAUM-PEDESTRIAN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dalkaum.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DEPAN PENDOPO 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppen.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DEPAN PENDOPO 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Deppendo.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DEPAN RSUD UJUNG BERUNG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsud.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DEPAN RSUD UJUNG BERUNG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rsudd.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DEPAN TERMINAL CICAHEUM 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheum.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DEPAN TERMINAL CICAHEUM 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/terminalcicaheumm.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DIPATIUKUR SEKELOA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunpad.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DIPATIUKUR SEKELOA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunp.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DIPATI UKUR-UNIKOM 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaun.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DIPATI UKUR-UNIKOM 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipaunik.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DIPATIUKUR UNPAD 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV DIPATIUKUR UNPAD 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dipati.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV FLY OVER ANTAPANI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyant.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV FLY OVER ANTAPANI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flyantpa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV FLY OVER CIMINDI-JL. BUDI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycim.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV FLY OVER CIMINDI-JL. BUDI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flycimin.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV FLY OVER KOPO-LEUWI PANJANG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykop.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV FLY OVER KOPO-LEUWI PANJANG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Flykopo.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GASIBU_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASIBU.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GASIBU_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GASI.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GATOT SUBROTO-BINONG_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsubin.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GATOT SUBROTO-BINONG_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatbino.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GATOT SUBROTO - TSM_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusub.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GATOT SUBROTO - TSM_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Gatsusubro.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GEDEBAGE_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEBAGE.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GEDEBAGE_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/GEDEB.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GERBANG KEBON BINATANG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbin.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV GERBANG KEBON BINATANG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/bonbinn.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV HUSEIN 01 - ST HALTE",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/husein.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV HUSEIN 03 - ST HALTE",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/huse.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ITB KEBUN BINATANG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebun.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ITB KEBUN BINATANG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKebu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ITB KEBUN BINATANG 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITBKeb.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ITC KEBON KALAPA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebonk.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV ITC KEBON KALAPA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/ITCkebon.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JAKARTA-HKBP_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAKA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JAKARTA-HKBP_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAK.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN CITARUM-PET PARK 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpet.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN CITARUM-PET PARK 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Citpetpark.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN GARUT-KPU PROV 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Garutkp.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN IR. SOEKARNO 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soe.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN IR. SOEKARNO 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekar.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN KEMBAR BARU 23-SMA 11 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kem.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAN KEMBAR BARU 23-SMA 11 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kembar.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV Jalan Riau-ASMTB 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtb.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV Jalan Riau-ASMTB 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riauasmtbb.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JALAPRANG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Jalaprang.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JAMIKA_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAMIKA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JAMIKA_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/JAMI.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL AHMAD YANI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabardua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL AHMAD YANI PERTIGAAN MALABAR 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AhmadYanipertigaanmalabar.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL AMBON SAPARUA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL AMBON SAPARUA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/ambonsaparuaa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. ANGGREK 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Anggrek.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. ANGGREK 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Angg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. ANTAPANI-TERMINAL ANTAPANI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Anter.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. ANTAPANI-TERMINAL ANTAPANI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Anterminal.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. ARCAMANIK 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Arcamanik.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. ARCAMANIK 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Arca.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL ASIA AFRIKA BRI TOWER 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowerdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL ASIA AFRIKA BRI TOWER 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaBRITowertiga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL CIGADUNG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadung.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL CIGADUNG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Cigadungdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. CIHAPIT 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Cihapit.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. CIHAPIT 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Ciha.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL CIKUTRA PERTIGAAN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/CikutrapertigaanBojongkoneng.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL KOPO SEBRANG MIKO MALL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomall.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL KOPO SEBRANG MIKO MALL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koposebrangmikomalldua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL LENGKONG KECIL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesar.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL LENGKONG KECIL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lengkongbesarr.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. PALASARI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pal.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. PALASARI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Palasari.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. PUNGKUR-PASUNDAN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pung.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. PUNGKUR-PASUNDAN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pungkur.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL PURNAWARMAN BEC 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBEC.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL PURNAWARMAN BEC 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/PurnawarmanBECdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. PURWAKARTA-GASMIN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Purwa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. PURWAKARTA-GASMIN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Purwakarta.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. RE. MARTADINATA-PAVILJOEN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Marta.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. RE. MARTADINATA-PAVILJOEN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Martadinata.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL RIAU PENGADILAN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL RIAU PENGADILAN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riaupnbdgg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL RIAU Yogya Junction",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/riausiter.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. RUMAH SAKIT-CINAMBO 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumahsak.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. RUMAH SAKIT-CINAMBO 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumahsakit.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. RUMAH SAKIT-UJUNG BERUNG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujung.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. RUMAH SAKIT-UJUNG BERUNG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Rumujungber.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL SOEKARNO HATTA-KPU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soettakp.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL SOETA METRO DEALER MERCY 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SoetaMetrodealerMercy.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL SUKAJADI PVJ 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJ.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL SUKAJADI PVJ 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/SukajadiPVJdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. SURAPATI - GASIBU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Surat.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. SURAPATI - GASIBU 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sura.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. SURYA SUMANTRI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Suryamantri.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. SURYA SUMANTRI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sury.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. SUTAMI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sutami.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. SUTAMI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Suta.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL TERUSAN BUAH BATU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TerusanBuahBatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL TERUSAN BUAH BATU 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TerusanBuahBatudua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL TUBAGUS ISMAIL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/TubagusIsmail.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. TURANGGA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Turangga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL. TURANGGA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tura.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL WAAS BATUNUNGGAL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggal.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV JL WAAS BATUNUNGGAL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/WaaspertigaankompleksBatununggaldua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KATAMSO-PAHLAWAN_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Katamso.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KATAMSO-PAHLAWAN_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KATAM.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KATAMSO-PAHLAWAN_03 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KATA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEBON KAWUNG - PASKAL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKam.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEBON KAWUNG - PASKAL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KebonKa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEBON-KOPI_BANDUNG ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBO.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEBON-KOPI-CIMAHI ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KEBON.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEPATIHAN",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/AL.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEPATIHAN TENGAH 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengah.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KEPATIHAN TENGAH 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/KepatihanTengahh.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KIRCON_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KIRCON.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KIRCON_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KIRC.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KOPO BIZPARK / DPN BRI KOPO 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBizpark.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KOPO BIZPARK / DPN BRI KOPO 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/KOPOBiz.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KOPO-RS BANDUNG KIWARI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kopors.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV KOPO-RS BANDUNG KIWARI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Koporsk.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV LAPANG GASIBU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lpgasibu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV LAPANG GASIBU 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/lpgasibuu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MARTANEGARA SATPOL PP 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegara.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MARTANEGARA SATPOL PP 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/martanegaraa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MERDEKA-JAWA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaw.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MERDEKA-JAWA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HUAWEI/Merjaww.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MOH TOHA-DEPAN HUBDAM 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohdepan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MOH TOHA-RS SARTIKA ASIH 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohr.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV MOH TOHA-RS SARTIKA ASIH 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Tohrs.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PAGARSIH 01",
+    "cctv_link": "https://pelindung.bandung.go.id/video/HUAWEI/Pagarsih.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PAGARSIH 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HUAWEI/Pagarsihh.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR BARU 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbarudua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR CIROYOM",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyom.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR CIROYOM 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarciroyomm.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR KIARACONDONG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkircon.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR KIARACONDONG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarkirconn.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR KOSAMBI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKosam.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR KOSAMBI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PasarKomb.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR SEDERHANA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhana.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASAR SEDERHANA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pasarsederhanaa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV  Pasteur JL DR DJUNJUNAN BTC 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTC.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV  Pasteur JL DR DJUNJUNAN BTC 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASTEUR-PASOPATI_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PASTEUR.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PASTEUR-PASOPATI_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/PAST.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV Per3an Soekarno-Asia Afrika 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/asiaafrika.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PER4AN DALEM KAUM-OTISTA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DlOtis.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PER4AN DALEM KAUM-OTISTA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DlOtiss.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PEREMPATAN KIRCON BINONG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinong.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PEREMPATAN KIRCON BINONG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kirconbinongg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PEREMPATAN KORDON 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkor.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PEREMPATAN KORDON 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perkordon.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PEREMPATAN LASWI-GATSU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlas.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PEREMPATAN LASWI-GATSU 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Perlaswi.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERINTIS KEMERDEKAAN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemer.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERINTIS KEMERDEKAAN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/perintiskemerdekaan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERTIGAAN AH NASUTION-CIJAMBE 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernas.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERTIGAAN AH NASUTION-CIJAMBE 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERTIGAAN AH NASUTION-PASIR IMPUN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasution.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERTIGAAN AH NASUTION-PASIR IMPUN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Pernasutionpasir.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERTIGAAN CICADAS KIRCON 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadas.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PERTIGAAN CICADAS KIRCON 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/pertigaancicadass.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PHH MUSTOFA-AMPERA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Musto.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PHH MUSTOFA-AMPERA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Mustofa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PHH MUSTOFA POM-BENSIN PARK HOTEL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/parkhotel.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PHH MUSTOFA POM-BENSIN PARK HOTEL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/parkhotell.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PHH MUSTOFA-PUSDAI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspus.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PHH MUSTOFA-PUSDAI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Muspusdai.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PUSDAI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Pusdai.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV PUSDAI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Pusda.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV RAJAWALI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rajawali.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV RAJAWALI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rajawalii.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV RANCANUMPANG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rancanumpang.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV RANCANUMPANG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/rancanumpangg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV RIAU BANDA",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/banda.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SEBRANG PASAR BARU 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Otistasebrangpasarbaru.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI-BUNGUR 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudibung.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI-BUNGUR 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabbudibungur.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI DEPAN TERMINAL LEDENG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudidepan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI DEPAN TERMINAL LEDENG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Setiabudidepanterminal.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI GERLONG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlong.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI GERLONG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlongg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SETIABUDI GERLONG 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/gerlonggg.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG BRAGA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragadua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG BRAGA 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/AsiaAfrikaSimpangBragatiga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG DAGO 01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAGO.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG DAGO 02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAG.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG DAGO 03 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/DAGOD.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG KERETA KIARA CONDONG-FLY OVER 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Kereta.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SIMPANG KERETA KIARA CONDONG-FLY OVER 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Keretakir.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SOEKARNO HATTA-GEDEBAGE 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekarnogede.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SOEKARNO HATTA-GEDEBAGE 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Soekarnogedebage.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SOR ARCAMANIK-1",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Viadua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SOR ARCAMANIK-2",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Viaductdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SUDIRMAN-KEMENAG 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Sudikem.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SUDIRMAN-KEMENAG 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Sudikemenag.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SUKAJADI-SETIABUDHI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sukajadi.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SUKAJADI-SETIABUDHI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Sukaja.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SUKAJADI SUKAGALIH 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalih.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SUKAJADI SUKAGALIH 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/sukajadisukagalihh.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SURAPATI-CORE_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/SURAB.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV SURAPATI-CORE_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/SURA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TALAGA BODAS KADIN 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kadin.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TALAGA BODAS KADIN 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/kadinn.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMAN PRAMUKA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TamanPri.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMAN SARI-DAYANG SUMBI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansari.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMAN SARI-DAYANG SUMBI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TamanSa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMANSARI UNISBA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisba.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMANSARI UNISBA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/unisbaa.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMAN SARI - WS 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansr.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMAN SARI - WS 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Tamansri.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMBLONG",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/tamblong.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TAMBLONG 01",
+    "cctv_link": "https:/pelindung.bandung.go.id:3443/video/HIKSVISION/Tamblong.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TEGALEGA_01 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TEGALEGA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TEGALEGA_02 ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TEGA.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TERMINAL DAGO 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/IrHJuandaTerminaldagodua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TERUSAN BUAH BATU-JEMBATAN TOL 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuah.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TERUSAN BUAH BATU-JEMBATAN TOL 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Terbuahbatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TPS Tegalega 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TPSTG1.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TPS Tegalega 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TPSTG2.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV TPS Tegalega 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/TPSTG3.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV VIADUCT 1 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Via.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV VIADUCT 1 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Viaduct.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV WASTUKENCANA 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/balkot.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV WASTUKENCANA 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balkott.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV WASTUKENCANA 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Balkottt.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV YANI - LASWI 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/Yanilaswi.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CCTV YANI - LASWI 02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DAHUA/YaniLsw.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CIKAPUNDUNG RIVER_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapundungriversatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "CIKAPUNDUNG RIVER_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapundungriverdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "Lobby PDAM TIRTAWENING",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/LAINNYA/pdamdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "LOBBY RSUD BANDUNG KIWARI",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/LAINNYA/rsud.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR ACEH PRAMUKA RIAU",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/spacehpramuka.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR ANGGREK RIAU",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/spanggrek.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR CIHAPIT RIAU (PENGADILAN)",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/spcihapit.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR LOMBOK RIAU 1 (TARBAK)",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/splombokriausatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR LOMBOK RIAU 2 (BRI)",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/splombokriaudua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR OTISTA SUDIRMAN",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/spotistasudirman.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "PARKIR TRUNOJOYO RIAU PTZ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DISHUB/sptrunojoyo.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN FILM_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanfilmsatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN FILM_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanfilmdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN KARTA_03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamankartatiga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN KARTA_05",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamankartalima.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN LANSIA",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiasatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN LANSIA_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiadua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN LANSIA_03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiatiga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN LANSIA_04",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanlansiaempat.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN MALUKU_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanmalukudua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN PALESTINA_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinasatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN PALESTINA_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpalestinadua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN PASUPATI_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpasupatisatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN PASUPATI_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpasupatidua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN PET PARK",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpetpark.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN RADIO_03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanradiotiga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN SKETPARK_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparksatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN SKETPARK_03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamansketparktiga.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegasatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegadua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_04",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegaempat.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_08",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegadelapan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_10",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegasepuluh.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_11",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegasebelas.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_12",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegaduabelas.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TEGALEGA_13",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantegalegatigabelas.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TONGKENG_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantongkengsatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TAMAN TONGKENG_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamantongkengdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB IBRAHIM ADJIE",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/ibrahimadjie.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. A. H. NASUTION CIKADUT",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/cikadut.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. CIKUTRA",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/cikutra.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. CIKUTRA BARAT",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/cikutrabarat.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. CINGISED",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/cingised.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL DJUNDJUNAN",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/djundjunan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. GD BAGE SELATAN - JL DERWATI",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/gdbageselatan.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. Pagarsih",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/pagarsih.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. RAYA KOPO CITARIP",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/kopocitarip.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. Rumah Sakit",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/rumahsakit.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. SUDIRMAN ",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/sudirman.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. SUKAMULYA",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/sukamulya.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TB JL. TRS. PASIRKOJA",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPU/trspasirkoja.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM CIBEUNYING 01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tmcibeunyingsatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM CIKAPAYANG DAGO_01",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangsatu.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM CIKAPAYANG DAGO_02",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangdua.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM CIKAPAYANG DAGO_04",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/cikapayangempat.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM FOREST WALK 07",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tmforesttujuh.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM PERS MALABAR 03",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tmpers3.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM PET PARK_04",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpetparkempat.m3u8"
+  },
+  {
+    "city": "BANDUNG",
+    "cctv_name": "TM PET PARK_05",
+    "cctv_link": "https://pelindung.bandung.go.id:3443/video/DPKP3/tamanpetparklima.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang APMD (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_apmd.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jlagran (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_jlagran.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Cendana (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_cendana.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gayam (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_gayam.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gondomanan (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_gondomanan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jokteng Kulon (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengkulon.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jokteng Wetan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_joktengwetan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang KM Nol (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_kmnol.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Permata (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_permata.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang PKU Muh. (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_pkumuh.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Sentul (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_sentul.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Serangan (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_serangan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang SGM (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_simpangsgm.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Tungkak (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_tungkak.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Tunjung (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_tunjung.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang UKDW (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Wirobrajan (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_wirobrajan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Sungai Gajah Wong 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_gajahwong2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Sungai Ngentak",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/bpbd/BPBD_ngentak.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Selatan_Teteg",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Depan_Toko_Subur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_2_Depan_Toko_Subur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Depan_Dispar",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_3_Depan_Dispar.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Depan_DPRD",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_4_Depan_DPRD.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Perwakilan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_5_Perwakilan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Mall_Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_6_Mall_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Mall_Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_7_Mall_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Pasar_Beringharjo",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang UST (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_UST.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Glagahsari",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Ibu Ruswo (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Ibu_Ruswo.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang BPK (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_bpk.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Mutiara_Lama",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_8_Mutiara_Lama.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Kepatihan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_10_Kepatihan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Ramayana",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Gunungmas",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_13_Gunungmas.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jogokariyan V. Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_jogokaryan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang APPI - JL.Mentri Supeno",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang KyaiMojo - Jl.Kyai Mojo",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_KyaiMojo.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pingit 1 - Jl.Tentara Pelajar",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pingit 2 - Jl. Tentara Pelajar",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pingit 3 - Jl. Tentara Pelajar",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit3.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gambiran 1 - Jl.Veteran",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gambiran 2 - Jl.Veteran",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Gambiran2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang APPI 2 - Jl.Mentri Supeno",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JlMentriSupeno2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Sop Merah - Jl.Kol.Sugiyono",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Sop Merah 2 - Jl.Kol.Sugiyono",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SopMerah2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jokteng Wetan - Jl. Parangtritis (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_JoktengWetan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pasar Gading - Jl.MT Haryono",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_PasarGading2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Sugeng Jeroni 1 - Jl.Sugeng Jeroni",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Sugeng Jeroni 2 - Jl.Sugeng Jeroni",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_SugengJeroni2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Parkiran Ngabean",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Parkiran_Ngabean.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pingit 4 - Jl. Tentara Pelajar",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit4.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Mirota (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Taman Sari (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_tamansari.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Semaki  1",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Semaki 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_semaki_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Klitren 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_klitren_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Brontokusuman (blkg Kel) 1",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Brontokusuman (blkg Kel) 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Segoro Amarto Tegalrejo 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_segoro_amarto_tegalrejo_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Pakudaya Pakuncen 1",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Pakudaya Pakuncen 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_pakudaya_pakuncen_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Amongrogo View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Amongrogo_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Demangan View Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Demangan View Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Demangan View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Demangan_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang DeBritto View Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Terban View Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Rejowinangun View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Rejowinangun_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Balaikota View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Balaikota View Utara-Barat",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Simpang_Reksobayan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_24_Simpang_Reksobayan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gedongkuning (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gedongkuning.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jetis (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Jetis.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Terban View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Terban View Barat",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Terban_View_Barat.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Pasar Demangan View Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Pasar_Demangan_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Galeria (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Galeria_TimurSelatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Nol Km. - Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Nol Km. - Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/NolKm_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Nol Km. - Gd. Agung",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gramedia (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Gramedia_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jati Kencana (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_JatiKencana.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Borobudur Plaza",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Borobudur_Plaza.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Tugu (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Bausasran (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_S4_Bausasran.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pingit 5 (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Lampu_Merah_Pingit5.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Gerbang Masuk Utara V. Timur (Luar)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Masuk_Utara_View_Timur-Luar.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Gerbang Timur PKK V. Utara (Luar)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Timur_PKK_View_Utara-Luar.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Gerbang Timur PKK V. Selatan (Luar)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/balaikota/Balaikota_Gerbang_Timur_PKK_View_Selatan-Luar.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Utara_Mall",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_25_Utara_Mall.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Utara_Inna_Malioboro",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_21_Utara_Inna_Malioboro.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Malioboro_Depan_BPD_Kepatihan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/malioboro/Malioboro_23_Depan_BPD_Kepatihan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "S3 Nyai Ahmad Dahlan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/tps-liar/S3_Nyai_Ahmad_Dahlan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Balaikota (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Balaikota_PTZ.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Basen (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Basen.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Melia Purosani (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Melia_Purosani.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Patangpuluhan (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Patangpuluhan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Atmosukarto (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Atmosukarto.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gondomanan View Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gondomanan_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pasar Telo View Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Pasar_Telo_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Pasar Telo View Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Pasar_Telo_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gambiran View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gambiran_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gambiran View Barat",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Gambiran_View_Barat.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Utara Jl. Gowongan Lor",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/margo-utomo/Gowongan-Lor.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Optic Tugu",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/margo-utomo/Optic-Tugu.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Selatan Olive",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/margo-utomo/Selatan-Olive.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Selatan Tugu",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/margo-utomo/Toko-Cat-Wahyu.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Wijaya Baru Travel",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/margo-utomo/Wijaya-Baru-Travel.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Utara Teteg",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/margo-utomo/Wisma-Ratih.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Nyoman Oka (Gereja Kotabaru)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/Jl-Nyoman-Oka.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Sajiono (Roemi)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/Jl-Sajiono.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Yos Sudarso (Mie Gacoan)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Yos-Sudarso.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Wardhani (Selatan-Timur SMPN 5)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Wardhani.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Prau (Fave Hotel)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Prau.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Ahmad Jazuli (Apotek K24)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-Ahmad-Jazuli.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. F.M. Noto (Raminten)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-Raminten.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. F.M. Noto (Gardu ANIEM)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-Gardu-Aniem.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Suroto (Depan Gerbang Rumdin Wawali)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/Jl-Suroto.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. Juadi (Pojok Utara-Barat Telkom)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/Jl-Juadi.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Jl. F.M. Noto (McDonalds)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/kotabaru/ANPR-Jl-FM-Noto-McDonalds.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Wirosaban View Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Wirosaban View Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Wirosaban View Barat",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Barat.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Wirosaban View Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Wirosaban_View_Timur.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Kleringan (Jl. Abu Bakar Ali)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Kleringan_Abu_Bakar_Ali.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Jogokariyan V. Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Jogokariyan_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Gajah Wong Edu Park 3",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_3.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Gajah Wong Edu Park 2",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_2.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "RTHP Gajah Wong Edu Park 1",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/rthp/rthp_gajahwong_edupark_1.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Tegalgendu (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tegalgendu_PTZ.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Letjen Suprapto-KS. Tubun V. Selatan",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Letjen_Suprapto_KS_Tubun_View_Selatan.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Letjen Suprapto-KS. Tubun V. Utara",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Letjen_Suprapto_KS_Tubun_View_Utara.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Glagahsari (PTZ)",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_Glagahsari_PTZ.stream/playlist.m3u8"
+  },
+  {
+    "city": "YOGYAKARTA",
+    "cctv_name": "Simpang Gramedia V. Utara-Timur",
+    "cctv_link": "https://cctvjss.jogjakota.go.id/atcs/ATCS_gramedia.stream/playlist.m3u8"
+  }
+]
