@@ -96,7 +96,7 @@ class Inference:
         selected_model = self.st.sidebar.selectbox("Model", available_models)
 
         with self.st.spinner("Model is downloading..."):
-            self.model = YOLO(f"{selected_model.lower()}.pt")
+            self.model = YOLO(f"{selected_model.lower()}.pt").to("cuda")
             class_names = list(self.model.names.values())
         self.st.success("Model loaded successfully!")
 
