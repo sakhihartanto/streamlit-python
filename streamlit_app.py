@@ -2,26 +2,25 @@
 
 import io
 import json
-from typing import Any
-
+import subprocess
+import torch
 import cv2
-
+import streamlit as st
 from ultralytics import YOLO
 from ultralytics.utils import LOGGER
 from ultralytics.utils.checks import check_requirements
 from ultralytics.utils.downloads import GITHUB_ASSETS_STEMS
 
+
 class Inference:
-
-    def __init__(self, **kwargs: Any):
-
+    def __init__(self, **kwargs):
         check_requirements("streamlit>=1.29.0")
-        import streamlit as st
 
+        # Load daftar CCTV dari JSON
         with open("./cctv_data.json") as f:
             self.list_cctv = json.load(f)
 
-        self.st = st
+        # Inisialisasi Streamlit
         self.source = None
         self.city = None
         self.cctv_name = None
@@ -33,52 +32,46 @@ class Inference:
         self.vid_file_name = None
         self.selected_ind = []
         self.model = None
+        self.model_path = kwargs.get("model", None)
 
-        self.temp_dict = {"model": None, **kwargs}
-        self.model_path = None
-        if self.temp_dict["model"] is not None:
-            self.model_path = self.temp_dict["model"]
+    def check_gpu(self):
+        """Mengecek apakah GPU tersedia dan menampilkan nvidia-smi."""
+        if torch.cuda.is_available():
+            gpu_info = subprocess.run(["nvidia-smi"], capture_output=True, text=True).stdout
+            st.text("GPU is available ✅")
+            st.text(gpu_info)
+        else:
+            st.warning("No GPU detected. Ensure you run the container with --gpus all.")
 
     def web_ui(self):
+        """Konfigurasi tampilan UI Streamlit."""
         menu_style_cfg = """<style>MainMenu {visibility: hidden;}</style>"""
-
-        self.st.set_page_config(page_title="Computer Vision Playground", layout="wide")
-        self.st.markdown(menu_style_cfg, unsafe_allow_html=True)
+        st.set_page_config(page_title="Computer Vision Playground", layout="wide")
+        st.markdown(menu_style_cfg, unsafe_allow_html=True)
 
     def sidebar(self):
-
-        self.st.sidebar.title("User Configuration")
-        self.source = self.st.sidebar.selectbox(
-            "Video",
-            ("webcam", "video", "cctv"),
-        )
+        """Sidebar konfigurasi pengguna."""
+        st.sidebar.title("User Configuration")
+        self.source = st.sidebar.selectbox("Video", ("webcam", "video", "cctv"))
 
         if self.source == "cctv":
-            self.city = self.st.sidebar.selectbox(
-                "City",
-                ("BANDUNG", "YOGYAKARTA")
-            )
-
+            self.city = st.sidebar.selectbox("City", ("BANDUNG", "YOGYAKARTA"))
             cctv_names = [loc["cctv_name"] for loc in self.list_cctv if loc["city"] == self.city]
+            self.cctv_name = st.sidebar.selectbox("CCTV Location", cctv_names)
 
-            self.cctv_name = self.st.sidebar.selectbox(
-                "CCTV Location", cctv_names
-            )
+        self.enable_trk = st.sidebar.radio("Enable Tracking", ("Yes", "No"))
+        self.conf = float(st.sidebar.slider("Confidence Threshold", 0.0, 1.0, self.conf, 0.01))
+        self.iou = float(st.sidebar.slider("IoU Threshold", 0.0, 1.0, self.iou, 0.01))
 
-        self.enable_trk = self.st.sidebar.radio("Enable Tracking", ("Yes", "No"))
-        self.conf = float(
-            self.st.sidebar.slider("Confidence Threshold", 0.0, 1.0, self.conf, 0.01)
-        )
-        self.iou = float(self.st.sidebar.slider("IoU Threshold", 0.0, 1.0, self.iou, 0.01))
-
-        col1, col2 = self.st.columns(2)
+        col1, col2 = st.columns(2)
         self.org_frame = col1.empty()
         self.ann_frame = col2.empty()
 
     def source_upload(self):
+        """Mengatur sumber video yang akan diproses."""
         self.vid_file_name = ""
         if self.source == "video":
-            vid_file = self.st.sidebar.file_uploader("Upload Video File", type=["mp4", "mov", "avi", "mkv"])
+            vid_file = st.sidebar.file_uploader("Upload Video File", type=["mp4", "mov", "avi", "mkv"])
             if vid_file is not None:
                 g = io.BytesIO(vid_file.read())
                 with open("playground.mp4", "wb") as out:
@@ -90,53 +83,58 @@ class Inference:
             self.vid_file_name = [loc["cctv_link"] for loc in self.list_cctv if (loc["city"] == self.city and loc["cctv_name"] == self.cctv_name)][0]
 
     def configure(self):
+        """Konfigurasi model dan memuat model YOLO dengan GPU."""
         available_models = [x.replace("yolo", "YOLO") for x in GITHUB_ASSETS_STEMS if x.startswith("yolo11")]
         if self.model_path:
             available_models.insert(0, self.model_path.split(".pt")[0])
-        selected_model = self.st.sidebar.selectbox("Model", available_models)
+        selected_model = st.sidebar.selectbox("Model", available_models)
 
-        with self.st.spinner("Model is downloading..."):
+        with st.spinner("Model is downloading..."):
             self.model = YOLO(f"{selected_model.lower()}.pt").to("cuda")
             class_names = list(self.model.names.values())
-        self.st.success("Model loaded successfully!")
+
+        st.success("Model loaded successfully!")
 
         if self.source == "cctv":
-            self.st.success(self.cctv_name)
+            st.success(self.cctv_name)
 
-        selected_classes = self.st.sidebar.multiselect("Classes", class_names, default=class_names[:3])
+        selected_classes = st.sidebar.multiselect("Classes", class_names, default=class_names[:3])
         self.selected_ind = [class_names.index(option) for option in selected_classes]
 
         if not isinstance(self.selected_ind, list):
             self.selected_ind = list(self.selected_ind)
 
     def inference(self):
+        """Menjalankan proses inference dengan Streamlit."""
         self.web_ui()
         self.sidebar()
+        self.check_gpu()
         self.source_upload()
         self.configure()
 
-        if self.st.sidebar.button("Start"):
-            stop_button = self.st.button("Stop")
+        if st.sidebar.button("Start"):
+            stop_button = st.button("Stop")
             cap = cv2.VideoCapture(self.vid_file_name)
+
             if not cap.isOpened():
-                self.st.error("Could not open webcam.")
+                st.error("Could not open video source.")
+                return
+
             while cap.isOpened():
                 success, frame = cap.read()
                 if not success:
-                    self.st.warning("Failed to read frame from webcam. Please verify the webcam is connected properly.")
+                    st.warning("Failed to read frame. Please check the video source.")
                     break
 
                 if self.enable_trk == "Yes":
-                    results = self.model.track(
-                        frame, conf=self.conf, iou=self.iou, classes=self.selected_ind, persist=True
-                    )
+                    results = self.model.track(frame, conf=self.conf, iou=self.iou, classes=self.selected_ind, persist=True)
                 else:
                     results = self.model(frame, conf=self.conf, iou=self.iou, classes=self.selected_ind)
                 annotated_frame = results[0].plot()
 
                 if stop_button:
                     cap.release()
-                    self.st.stop()
+                    st.stop()
 
                 self.org_frame.image(frame, channels="BGR")
                 self.ann_frame.image(annotated_frame, channels="BGR")
